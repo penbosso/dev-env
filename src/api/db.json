@@ -1,16 +1,1 @@
-{
-  "users": [
-    {
-      "id": 42970455,
-      "firstName": "Mireya",
-      "lastName": "Aufderhar",
-      "email": "Dannie83@hotmail.com"
-    },
-    {
-      "id": 60890418,
-      "firstName": "Rosa",
-      "lastName": "Hirthe",
-      "email": "Guadalupe.Jones28@hotmail.com"
-    }
-  ]
-}
+{"users":[{"id":50786248,"firstName":"Louisa","lastName":"Schiller","email":"Reuben54@gmail.com"},{"id":60427512,"firstName":"Lenna","lastName":"Cole","email":"Kraig.Gorczany4@yahoo.com"},{"id":90016264,"firstName":"Carolyne","lastName":"Ruecker","email":"Daryl.Gaylord87@gmail.com"}]}
